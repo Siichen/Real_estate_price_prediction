@@ -30,3 +30,4 @@ This project covers a range of technologies and tools:
 - Python Flask for HTTP server
 - HTML/CSS/JavaScript for UI
 
+(This project follows the tutorial on YouTube:--codebasics--)
