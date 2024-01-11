@@ -1,15 +1,32 @@
-<h2>This data science project series walks through step by step process of how to build a real estate price prediction website. </h2>
+## Real Estate Price Prediction Website
 
-We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. 
-Second step would be to write a python flask server that uses the saved model to serve http requests. 
-Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
-During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. 
+This data science project series walks through the step-by-step process of building a real estate price prediction website.
 
-Technology and tools wise this project covers,
-· Python
-· Numpy and Pandas for data cleaning
-· Matplotlib for data visualization
-· Sklearn for model building
-· Jupyter notebook, visual studio code and pycharm as IDE
-· Python flask for http server
-· HTML/CSS/Javascript for UI
+### Model Building with Sklearn and Linear Regression
+
+We will start by building a model using sklearn and linear regression, utilizing the Bangalore home prices dataset from Kaggle.com.
+
+### Python Flask Server
+
+The second step involves writing a Python Flask server that utilizes the saved model to serve HTTP requests.
+
+### Website Development
+
+The third component is a website built with HTML, CSS, and JavaScript. Users can enter home square footage, number of bedrooms, etc. The website will then call the Python Flask server to retrieve the predicted price.
+
+### Comprehensive Data Science Concepts Coverage
+
+Throughout the model-building phase, we will cover various data science concepts, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k-fold cross-validation, and more.
+
+### Technology and Tools
+
+This project covers a range of technologies and tools:
+
+- Python
+- Numpy and Pandas for data cleaning
+- Matplotlib for data visualization
+- Sklearn for model building
+- Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs
+- Python Flask for HTTP server
+- HTML/CSS/JavaScript for UI
+
